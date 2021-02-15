@@ -1,0 +1,23 @@
+<ul class=" gallery-wrap list">
+	<li class="gallery-item slideanim">
+		<div class="gallery-link">
+			<h4 class="gallery-name">Elaboración de tesis</h4>
+			<div class="gallery-department">Te ayudamos a elaborar tu tesis, iniciando desde el plan de tesis hasta la sustentación</div>
+			<img class="headshot img-responsive" src="images/serv1.jpg" alt="w3layouts">
+			<div class="hidden person-info-wrap">
+				<ul class="person-info">
+					<li class="filter-full_name">Elaboración de tesis</li>
+					<li><p>La tesis es un trabajo de investigación sistemática y exhaustivo acerca de un tópico -que es elegido por el investigador- y que, en la mayoría de los sistemas de educación formal, es el paso obligado para obtener un título universitario de grado o posgrado, y dependiendo del rango que se quiera alcanzar (licenciaturas, maestrías, doctorados, posdoctorados) la tesis a realizar tendrá un nivel de exigencia menor o mayor.</p></li>
+				</ul>
+			</div>
+			<ul class="page-link social-icons1">
+				<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+				<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				<li><a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+			</ul>
+		</div>
+	</li>
+</ul>
+
+yerson frank
